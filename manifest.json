@@ -1,1 +1,1 @@
-{ "version": "0.31.0", "tag": "0.31.0", "notes": "Automatic database backup before every update; Blocks unsupported updates from very old versions", "min_version": "" }
+{ "version": "0.31.1", "tag": "0.31.1", "notes": "Update page refreshes on its own; no manual reload needed", "min_version": "" }
