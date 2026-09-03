@@ -1,1 +1,1 @@
-{ "version": "0.30.7", "tag": "0.30.7", "notes": "Faster update detection (GitHub API manifest, 60s cache)." }
+{ "version": "0.30.8", "tag": "0.30.8", "notes": "Manual "Check for updates" button replaces re-pull." }
