@@ -1,1 +1,1 @@
-{ "version": "0.30.11", "tag": "0.30.11", "notes": "Test: watch the update bar appear on navigation." }
+{ "version": "0.30.12", "tag": "0.30.12", "notes": "Update page now lists what is new under the version; Release notes are public and shown to every box" }
