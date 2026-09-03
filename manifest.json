@@ -1,1 +1,1 @@
-{ "version": "0.30.12", "tag": "0.30.12", "notes": "Update page now lists what is new under the version; Release notes are public and shown to every box" }
+{ "version": "0.31.0", "tag": "0.31.0", "notes": "Automatic database backup before every update; Blocks unsupported updates from very old versions", "min_version": "" }
