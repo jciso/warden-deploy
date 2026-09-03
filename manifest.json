@@ -1,1 +1,1 @@
-{ "version": "0.30.3", "tag": "0.30.3", "notes": "Update page auto-refreshes and shows available versions." }
+{ "version": "0.30.4", "tag": "0.30.4", "notes": "New: app-wide update-available bar; simplified update page." }
