@@ -1,1 +1,1 @@
-{ "version": "0.30.8", "tag": "0.30.8", "notes": "Manual "Check for updates" button replaces re-pull." }
+{ "version": "0.30.9", "tag": "0.30.9", "notes": "Test release to verify fast update detection." }
