@@ -1,1 +1,1 @@
-{ "version": "0.30.4", "tag": "0.30.4", "notes": "New: app-wide update-available bar; simplified update page." }
+{ "version": "0.30.5", "tag": "0.30.5", "notes": "Test release: verify one-command pipeline." }
