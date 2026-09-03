@@ -1,1 +1,1 @@
-{ "version": "0.30.6", "tag": "0.30.6", "notes": "Cache-bust manifest checks for instant update detection." }
+{ "version": "0.30.7", "tag": "0.30.7", "notes": "Faster update detection (GitHub API manifest, 60s cache)." }
