@@ -1,1 +1,1 @@
-{ "version": "0.30.10", "tag": "0.30.10", "notes": "Update bar re-checks on navigation, timer, and tab focus." }
+{ "version": "0.30.11", "tag": "0.30.11", "notes": "Test: watch the update bar appear on navigation." }
