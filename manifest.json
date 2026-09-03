@@ -1,1 +1,1 @@
-{ "version": "0.31.2", "tag": "0.31.2", "notes": "Host updater self-refreshes from the bundle, so fixes reach existing boxes automatically", "min_version": "" }
+{ "version": "0.31.3", "tag": "0.31.3", "notes": "Updater supports custom ports and compose overrides; More robust update configuration", "min_version": "" }
