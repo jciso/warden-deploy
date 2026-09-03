@@ -1,1 +1,1 @@
-{ "version": "0.30.5", "tag": "0.30.5", "notes": "Test release: verify one-command pipeline." }
+{ "version": "0.30.6", "tag": "0.30.6", "notes": "Cache-bust manifest checks for instant update detection." }
