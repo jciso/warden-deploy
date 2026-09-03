@@ -1,1 +1,1 @@
-{ "version": "0.30.9", "tag": "0.30.9", "notes": "Test release to verify fast update detection." }
+{ "version": "0.30.10", "tag": "0.30.10", "notes": "Update bar re-checks on navigation, timer, and tab focus." }
