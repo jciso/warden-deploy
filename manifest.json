@@ -1,1 +1,1 @@
-{ "version": "0.31.3", "tag": "0.31.3", "notes": "Updater supports custom ports and compose overrides; More robust update configuration", "min_version": "" }
+{ "version": "0.32.0", "tag": "0.32.0", "notes": "New Compliance module (NIST CSF 2.0): guided profile wizard, policy-template library, maturity scorecard and one-click PDF export; Firewall recommendations now auto-resolve when fixed and detect config changes faster; Full backup and restore; Bulk document download (ZIP) and status changes", "min_version": "" }
