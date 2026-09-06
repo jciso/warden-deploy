@@ -1,1 +1,1 @@
-{ "version": "0.33.1", "tag": "0.33.1", "notes": "License page now shows the expiration date and days remaining", "min_version": "" }
+{ "version": "0.34.0", "tag": "0.34.0", "notes": "Maturity score now reads your documents and credits finalized controls, with plain-language guidance and examples; Accept-the-risk on maturity gaps; Search and status filter on the Documents tab; Documents open as a formatted, editable page instead of raw markup; Download any previous version of a document as a PDF", "min_version": "" }
