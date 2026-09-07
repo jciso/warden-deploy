@@ -1,1 +1,1 @@
-{ "version": "0.35.1", "tag": "0.35.1", "notes": "Palo Alto CIS scoring validated and corrected against real PAN-OS configs (password-policy, update-schedule and rule-logging checks); two new checks", "min_version": "" }
+{ "version": "0.35.2", "tag": "0.35.2", "notes": "Expanded Palo Alto CIS coverage to 29 checks: password expiry/reuse/profiles, management source-IP restriction, authentication lockout, and SSL decryption policy", "min_version": "" }
