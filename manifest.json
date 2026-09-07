@@ -1,1 +1,1 @@
-{ "version": "0.35.0", "tag": "0.35.0", "notes": "Initial Palo Alto (PAN-OS 10/11) support: add a Palo Alto firewall, pull its configuration, and score it against the CIS Palo Alto Benchmark", "min_version": "" }
+{ "version": "0.35.1", "tag": "0.35.1", "notes": "Palo Alto CIS scoring validated and corrected against real PAN-OS configs (password-policy, update-schedule and rule-logging checks); two new checks", "min_version": "" }
