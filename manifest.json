@@ -1,1 +1,1 @@
-{ "version": "0.36.0", "tag": "0.36.0", "notes": "Asset inventory: a new Assets view populated from each FortiGate device inventory and its managed FortiSwitches (hostname, IP, MAC, vendor/OS, and the switch port and VLAN each device connects through); per-firewall scan interval (default 60 min)", "min_version": "" }
+{ "version": "0.36.1", "tag": "0.36.1", "notes": "Asset inventory now also works on Palo Alto (from the firewall ARP table and DHCP leases): hostname, IP, MAC and interface", "min_version": "" }
