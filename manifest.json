@@ -1,1 +1,1 @@
-{ "version": "0.40.0", "tag": "0.40.0", "notes": "Compliance recommends HIPAA for companies that handle health data and cross-maps HIPAA and NIST CSF documents; New Brand Protection section watches for cousin/look-alike domains impersonating your companies and flags recently-registered ones", "min_version": "0.38.0" }
+{ "version": "0.41.0", "tag": "0.41.0", "notes": "New Threat Feed: watches vulnerability RSS feeds and alerts you when a new CVE affects software your companies use, with email on High/Critical; near-real-time polling", "min_version": "0.38.0" }
