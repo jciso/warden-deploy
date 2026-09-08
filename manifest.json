@@ -1,1 +1,1 @@
-{ "version": "0.38.2", "tag": "0.38.2", "notes": "Deleting a firewall now also removes its detected assets and switches; The software update page shows a live progress percentage while updating", "min_version": "0.38.0" }
+{ "version": "0.38.3", "tag": "0.38.3", "notes": "Adding a connector now starts with a picker to choose which tool to connect (CrowdStrike today, more to come)", "min_version": "0.38.0" }
