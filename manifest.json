@@ -1,1 +1,1 @@
-{ "version": "0.38.3", "tag": "0.38.3", "notes": "Adding a connector now starts with a picker to choose which tool to connect (CrowdStrike today, more to come)", "min_version": "0.38.0" }
+{ "version": "0.39.0", "tag": "0.39.0", "notes": "HIPAA compliance: pick NIST CSF and/or HIPAA per company and generate HIPAA policy documents; New Microsoft 365 connector: score your tenant against CISA SCuBA baselines by importing CISA ScubaGear results", "min_version": "0.38.0" }
