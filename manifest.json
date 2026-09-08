@@ -1,1 +1,1 @@
-{ "version": "0.38.1", "tag": "0.38.1", "notes": "Fix: the database container now restarts automatically after a server reboot; previously the app could stay down until the database was started by hand", "min_version": "0.38.0" }
+{ "version": "0.38.2", "tag": "0.38.2", "notes": "Deleting a firewall now also removes its detected assets and switches; The software update page shows a live progress percentage while updating", "min_version": "0.38.0" }
